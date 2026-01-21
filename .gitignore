@@ -39,9 +39,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# local json database
-/data/users.json
-/data/categories.json
-/data/businesses.json
-/data/reviews.json

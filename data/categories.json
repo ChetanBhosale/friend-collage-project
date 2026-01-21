@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cat-restaurants",
+    "name": "Restaurants",
+    "createdAt": "2026-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "cat-cafes",
+    "name": "Cafes & Coffee Shops",
+    "createdAt": "2026-01-15T10:05:00.000Z"
+  },
+  {
+    "id": "cat-hotels",
+    "name": "Hotels & Lodging",
+    "createdAt": "2026-01-15T10:10:00.000Z"
+  },
+  {
+    "id": "cat-retail",
+    "name": "Retail & Shopping",
+    "createdAt": "2026-01-15T10:15:00.000Z"
+  },
+  {
+    "id": "cat-services",
+    "name": "Services",
+    "createdAt": "2026-01-15T10:20:00.000Z"
+  },
+  {
+    "id": "cat-fitness",
+    "name": "Fitness & Wellness",
+    "createdAt": "2026-01-15T10:25:00.000Z"
+  },
+  {
+    "id": "cat-entertainment",
+    "name": "Entertainment",
+    "createdAt": "2026-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "cat-automotive",
+    "name": "Automotive",
+    "createdAt": "2026-01-15T10:35:00.000Z"
+  }
+]

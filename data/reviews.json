@@ -1,0 +1,426 @@
+[
+  {
+    "id": "rev-001",
+    "rating": 5,
+    "comment": "Absolutely amazing food! The pasta was cooked to perfection and the service was outstanding. Will definitely come back!",
+    "userId": "user-001",
+    "businessId": "biz-001",
+    "createdAt": "2026-01-17T14:30:00.000Z"
+  },
+  {
+    "id": "rev-002",
+    "rating": 4,
+    "comment": "Great atmosphere and delicious dishes. The only downside was the wait time, but it was worth it!",
+    "userId": "user-002",
+    "businessId": "biz-001",
+    "createdAt": "2026-01-17T18:45:00.000Z"
+  },
+  {
+    "id": "rev-003",
+    "rating": 5,
+    "comment": "Best Italian food in the city! Mama's recipes are authentic and the portions are generous. Highly recommend the lasagna!",
+    "userId": "user-003",
+    "businessId": "biz-002",
+    "createdAt": "2026-01-17T19:20:00.000Z"
+  },
+  {
+    "id": "rev-004",
+    "rating": 5,
+    "comment": "Family-owned gem! The warmth and hospitality made us feel right at home. The tiramisu is to die for!",
+    "userId": "user-004",
+    "businessId": "biz-002",
+    "createdAt": "2026-01-18T12:15:00.000Z"
+  },
+  {
+    "id": "rev-005",
+    "rating": 4,
+    "comment": "Excellent Italian cuisine with a cozy ambiance. Prices are reasonable for the quality you get.",
+    "userId": "user-005",
+    "businessId": "biz-002",
+    "createdAt": "2026-01-18T20:30:00.000Z"
+  },
+  {
+    "id": "rev-006",
+    "rating": 5,
+    "comment": "Fresh sushi, beautiful presentation, and knowledgeable staff. The omakase experience was unforgettable!",
+    "userId": "user-001",
+    "businessId": "biz-003",
+    "createdAt": "2026-01-18T13:00:00.000Z"
+  },
+  {
+    "id": "rev-007",
+    "rating": 4,
+    "comment": "High-quality sushi at fair prices. The salmon was incredibly fresh. Will be back to try more rolls!",
+    "userId": "user-006",
+    "businessId": "biz-003",
+    "createdAt": "2026-01-18T19:45:00.000Z"
+  },
+  {
+    "id": "rev-008",
+    "rating": 5,
+    "comment": "Best burgers in town! Juicy, flavorful, and cooked exactly how I asked. The fries are crispy perfection!",
+    "userId": "user-007",
+    "businessId": "biz-004",
+    "createdAt": "2026-01-19T12:30:00.000Z"
+  },
+  {
+    "id": "rev-009",
+    "rating": 5,
+    "comment": "No-frills burger joint with amazing food. The classic cheeseburger is simple but absolutely delicious!",
+    "userId": "user-002",
+    "businessId": "biz-004",
+    "createdAt": "2026-01-19T18:00:00.000Z"
+  },
+  {
+    "id": "rev-010",
+    "rating": 4,
+    "comment": "Great burgers and friendly staff. Gets crowded during lunch but worth the wait!",
+    "userId": "user-008",
+    "businessId": "biz-004",
+    "createdAt": "2026-01-19T13:15:00.000Z"
+  },
+  {
+    "id": "rev-011",
+    "rating": 5,
+    "comment": "Authentic Indian flavors! The butter chicken and naan were exceptional. Spice levels are customizable too!",
+    "userId": "user-003",
+    "businessId": "biz-005",
+    "createdAt": "2026-01-19T20:00:00.000Z"
+  },
+  {
+    "id": "rev-012",
+    "rating": 4,
+    "comment": "Delicious food with generous portions. The biryani was aromatic and perfectly cooked.",
+    "userId": "user-004",
+    "businessId": "biz-005",
+    "createdAt": "2026-01-20T12:45:00.000Z"
+  },
+  {
+    "id": "rev-013",
+    "rating": 5,
+    "comment": "My favorite coffee spot! Great atmosphere for working, excellent wifi, and the best cappuccino in Brooklyn!",
+    "userId": "user-005",
+    "businessId": "biz-006",
+    "createdAt": "2026-01-17T09:30:00.000Z"
+  },
+  {
+    "id": "rev-014",
+    "rating": 5,
+    "comment": "Cozy cafe with amazing pastries. The baristas are skilled and friendly. Perfect morning spot!",
+    "userId": "user-001",
+    "businessId": "biz-006",
+    "createdAt": "2026-01-18T08:15:00.000Z"
+  },
+  {
+    "id": "rev-015",
+    "rating": 4,
+    "comment": "Good coffee and comfortable seating. Can get busy on weekends but the vibe is always great.",
+    "userId": "user-006",
+    "businessId": "biz-006",
+    "createdAt": "2026-01-19T10:00:00.000Z"
+  },
+  {
+    "id": "rev-016",
+    "rating": 5,
+    "comment": "Strong coffee and no-nonsense service. Exactly what I need to start my day!",
+    "userId": "user-007",
+    "businessId": "biz-007",
+    "createdAt": "2026-01-18T07:45:00.000Z"
+  },
+  {
+    "id": "rev-017",
+    "rating": 4,
+    "comment": "Reliable neighborhood cafe. The espresso is consistently good and prices are fair.",
+    "userId": "user-002",
+    "businessId": "biz-007",
+    "createdAt": "2026-01-19T08:30:00.000Z"
+  },
+  {
+    "id": "rev-018",
+    "rating": 5,
+    "comment": "Coffee enthusiast's dream! They roast their own beans and you can taste the quality. Educational staff too!",
+    "userId": "user-008",
+    "businessId": "biz-008",
+    "createdAt": "2026-01-18T11:00:00.000Z"
+  },
+  {
+    "id": "rev-019",
+    "rating": 5,
+    "comment": "Best coffee in Manhattan! The pour-over is worth the wait. Great selection of single-origin beans.",
+    "userId": "user-003",
+    "businessId": "biz-008",
+    "createdAt": "2026-01-19T09:15:00.000Z"
+  },
+  {
+    "id": "rev-020",
+    "rating": 4,
+    "comment": "Lovely bakery with fresh pastries daily. The croissants are buttery and flaky. Coffee is good too!",
+    "userId": "user-004",
+    "businessId": "biz-009",
+    "createdAt": "2026-01-18T10:30:00.000Z"
+  },
+  {
+    "id": "rev-021",
+    "rating": 5,
+    "comment": "Luxurious stay with impeccable service! The rooms are spacious and the location is perfect for exploring the city.",
+    "userId": "user-001",
+    "businessId": "biz-010",
+    "createdAt": "2026-01-17T16:00:00.000Z"
+  },
+  {
+    "id": "rev-022",
+    "rating": 5,
+    "comment": "Five-star experience all around. The concierge went above and beyond to make our stay memorable!",
+    "userId": "user-005",
+    "businessId": "biz-010",
+    "createdAt": "2026-01-18T14:30:00.000Z"
+  },
+  {
+    "id": "rev-023",
+    "rating": 4,
+    "comment": "Great hotel with excellent amenities. The rooftop bar has stunning views. Slightly pricey but worth it.",
+    "userId": "user-006",
+    "businessId": "biz-010",
+    "createdAt": "2026-01-19T11:45:00.000Z"
+  },
+  {
+    "id": "rev-024",
+    "rating": 5,
+    "comment": "Clean, comfortable, and affordable! Perfect for families. The staff was incredibly helpful and friendly.",
+    "userId": "user-007",
+    "businessId": "biz-011",
+    "createdAt": "2026-01-18T15:20:00.000Z"
+  },
+  {
+    "id": "rev-025",
+    "rating": 4,
+    "comment": "Good value for money. Rooms are well-maintained and the breakfast buffet is decent.",
+    "userId": "user-002",
+    "businessId": "biz-011",
+    "createdAt": "2026-01-19T09:00:00.000Z"
+  },
+  {
+    "id": "rev-026",
+    "rating": 5,
+    "comment": "Charming boutique hotel with unique decor. The riverside views are breathtaking. Highly recommend!",
+    "userId": "user-008",
+    "businessId": "biz-012",
+    "createdAt": "2026-01-19T17:30:00.000Z"
+  },
+  {
+    "id": "rev-027",
+    "rating": 4,
+    "comment": "Stylish and modern. Great attention to detail. The only downside is limited parking.",
+    "userId": "user-003",
+    "businessId": "biz-012",
+    "createdAt": "2026-01-20T10:15:00.000Z"
+  },
+  {
+    "id": "rev-028",
+    "rating": 5,
+    "comment": "Trendy boutique with unique pieces you won't find anywhere else. The staff has great fashion sense!",
+    "userId": "user-004",
+    "businessId": "biz-013",
+    "createdAt": "2026-01-18T13:45:00.000Z"
+  },
+  {
+    "id": "rev-029",
+    "rating": 4,
+    "comment": "Love the selection! Prices are a bit high but the quality justifies it. Found some amazing pieces.",
+    "userId": "user-001",
+    "businessId": "biz-013",
+    "createdAt": "2026-01-19T14:20:00.000Z"
+  },
+  {
+    "id": "rev-030",
+    "rating": 5,
+    "comment": "Knowledgeable staff who helped me find the perfect laptop. Great prices and excellent customer service!",
+    "userId": "user-005",
+    "businessId": "biz-014",
+    "createdAt": "2026-01-18T16:00:00.000Z"
+  },
+  {
+    "id": "rev-031",
+    "rating": 5,
+    "comment": "Best tech store in the area! Wide selection and competitive prices. They even price-matched for me!",
+    "userId": "user-006",
+    "businessId": "biz-014",
+    "createdAt": "2026-01-19T15:30:00.000Z"
+  },
+  {
+    "id": "rev-032",
+    "rating": 4,
+    "comment": "Great selection of plants and helpful advice. Prices are reasonable and plants are healthy.",
+    "userId": "user-007",
+    "businessId": "biz-015",
+    "createdAt": "2026-01-19T11:00:00.000Z"
+  },
+  {
+    "id": "rev-033",
+    "rating": 5,
+    "comment": "Best haircut I've had in years! The stylist really listened to what I wanted. Will definitely return!",
+    "userId": "user-002",
+    "businessId": "biz-016",
+    "createdAt": "2026-01-18T17:15:00.000Z"
+  },
+  {
+    "id": "rev-034",
+    "rating": 5,
+    "comment": "Professional and friendly staff. Great atmosphere and reasonable prices. My new go-to salon!",
+    "userId": "user-008",
+    "businessId": "biz-016",
+    "createdAt": "2026-01-19T16:45:00.000Z"
+  },
+  {
+    "id": "rev-035",
+    "rating": 5,
+    "comment": "Quick response and fixed my plumbing issue efficiently. Fair pricing and professional service!",
+    "userId": "user-003",
+    "businessId": "biz-017",
+    "createdAt": "2026-01-18T10:00:00.000Z"
+  },
+  {
+    "id": "rev-036",
+    "rating": 4,
+    "comment": "Reliable and honest. Explained the problem clearly and didn't try to upsell unnecessary services.",
+    "userId": "user-004",
+    "businessId": "biz-017",
+    "createdAt": "2026-01-19T12:00:00.000Z"
+  },
+  {
+    "id": "rev-037",
+    "rating": 5,
+    "comment": "Clean machines, reasonable prices, and the place is always well-maintained. Best laundromat in Harlem!",
+    "userId": "user-001",
+    "businessId": "biz-018",
+    "createdAt": "2026-01-19T13:30:00.000Z"
+  },
+  {
+    "id": "rev-038",
+    "rating": 5,
+    "comment": "Excellent gym with modern equipment! The trainers are knowledgeable and the facility is always clean.",
+    "userId": "user-005",
+    "businessId": "biz-019",
+    "createdAt": "2026-01-18T06:30:00.000Z"
+  },
+  {
+    "id": "rev-039",
+    "rating": 4,
+    "comment": "Great variety of equipment and classes. Can get crowded during peak hours but overall a solid gym.",
+    "userId": "user-006",
+    "businessId": "biz-019",
+    "createdAt": "2026-01-19T07:15:00.000Z"
+  },
+  {
+    "id": "rev-040",
+    "rating": 5,
+    "comment": "Peaceful studio with amazing instructors. The yoga classes have transformed my practice!",
+    "userId": "user-007",
+    "businessId": "biz-020",
+    "createdAt": "2026-01-18T18:00:00.000Z"
+  },
+  {
+    "id": "rev-041",
+    "rating": 5,
+    "comment": "Welcoming community and skilled teachers. Perfect for both beginners and advanced practitioners.",
+    "userId": "user-002",
+    "businessId": "biz-020",
+    "createdAt": "2026-01-19T18:30:00.000Z"
+  },
+  {
+    "id": "rev-042",
+    "rating": 5,
+    "comment": "Absolutely heavenly! The massage was incredible and the atmosphere is so relaxing. Worth every penny!",
+    "userId": "user-008",
+    "businessId": "biz-021",
+    "createdAt": "2026-01-19T14:00:00.000Z"
+  },
+  {
+    "id": "rev-043",
+    "rating": 4,
+    "comment": "Great spa with professional staff. The facial was wonderful. Prices are a bit high but quality is excellent.",
+    "userId": "user-003",
+    "businessId": "biz-021",
+    "createdAt": "2026-01-20T11:30:00.000Z"
+  },
+  {
+    "id": "rev-044",
+    "rating": 5,
+    "comment": "Best cinema experience! Comfortable seats, great sound system, and the popcorn is always fresh!",
+    "userId": "user-004",
+    "businessId": "biz-022",
+    "createdAt": "2026-01-18T21:00:00.000Z"
+  },
+  {
+    "id": "rev-045",
+    "rating": 4,
+    "comment": "Nice theater with good selection of movies. The IMAX screen is impressive!",
+    "userId": "user-001",
+    "businessId": "biz-022",
+    "createdAt": "2026-01-19T20:15:00.000Z"
+  },
+  {
+    "id": "rev-046",
+    "rating": 5,
+    "comment": "So much fun! Great variety of games and the staff is friendly. Perfect for a family outing!",
+    "userId": "user-005",
+    "businessId": "biz-023",
+    "createdAt": "2026-01-19T15:00:00.000Z"
+  },
+  {
+    "id": "rev-047",
+    "rating": 5,
+    "comment": "Hilarious show! The comedians were talented and the venue has a great intimate atmosphere.",
+    "userId": "user-006",
+    "businessId": "biz-024",
+    "createdAt": "2026-01-18T22:30:00.000Z"
+  },
+  {
+    "id": "rev-048",
+    "rating": 4,
+    "comment": "Great comedy club with good drink selection. Shows can sell out fast so book ahead!",
+    "userId": "user-007",
+    "businessId": "biz-024",
+    "createdAt": "2026-01-19T21:45:00.000Z"
+  },
+  {
+    "id": "rev-049",
+    "rating": 5,
+    "comment": "Honest mechanics who do quality work. They explained everything clearly and didn't overcharge!",
+    "userId": "user-002",
+    "businessId": "biz-025",
+    "createdAt": "2026-01-18T14:00:00.000Z"
+  },
+  {
+    "id": "rev-050",
+    "rating": 4,
+    "comment": "Reliable service and fair prices. Fixed my car quickly and it runs great now!",
+    "userId": "user-008",
+    "businessId": "biz-025",
+    "createdAt": "2026-01-19T10:30:00.000Z"
+  },
+  {
+    "id": "rev-051",
+    "rating": 5,
+    "comment": "My car looks brand new! Thorough cleaning inside and out. Great value for the price!",
+    "userId": "user-003",
+    "businessId": "biz-026",
+    "createdAt": "2026-01-19T12:45:00.000Z"
+  },
+  {
+    "id": "rev-052",
+    "rating": 5,
+    "comment": "Fast and professional tire service. Competitive prices and they honor their warranty!",
+    "userId": "user-004",
+    "businessId": "biz-027",
+    "createdAt": "2026-01-18T15:45:00.000Z"
+  },
+  {
+    "id": "rev-053",
+    "rating": 4,
+    "comment": "Good selection of tires and knowledgeable staff. Installation was quick and efficient.",
+    "userId": "user-001",
+    "businessId": "biz-027",
+    "createdAt": "2026-01-19T16:00:00.000Z"
+  }
+]

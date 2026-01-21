@@ -1,0 +1,82 @@
+[
+  {
+    "id": "user-admin",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$pckKMw/sh/WNFoISQwi2N.snMS/jS0ARSlsEWvQqXux/VB.jCSloa",
+    "role": "ADMIN",
+    "createdAt": "2026-01-15T09:00:00.000Z",
+    "updatedAt": "2026-01-15T09:00:00.000Z"
+  },
+  {
+    "id": "user-001",
+    "email": "john.smith@email.com",
+    "password": "$2b$10$jfcdEBBNt0lERx53NuHs7uIvA6e12ZnoWatmdWovjwfYBl6Zl.WNq",
+    "role": "USER",
+    "createdAt": "2026-01-15T10:00:00.000Z",
+    "updatedAt": "2026-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "user-002",
+    "email": "sarah.johnson@email.com",
+    "password": "$2b$10$jfcdEBBNt0lERx53NuHs7uIvA6e12ZnoWatmdWovjwfYBl6Zl.WNq",
+    "role": "USER",
+    "createdAt": "2026-01-15T11:00:00.000Z",
+    "updatedAt": "2026-01-15T11:00:00.000Z"
+  },
+  {
+    "id": "user-003",
+    "email": "mike.wilson@email.com",
+    "password": "$2b$10$jfcdEBBNt0lERx53NuHs7uIvA6e12ZnoWatmdWovjwfYBl6Zl.WNq",
+    "role": "USER",
+    "createdAt": "2026-01-15T12:00:00.000Z",
+    "updatedAt": "2026-01-15T12:00:00.000Z"
+  },
+  {
+    "id": "user-004",
+    "email": "emily.brown@email.com",
+    "password": "$2b$10$jfcdEBBNt0lERx53NuHs7uIvA6e12ZnoWatmdWovjwfYBl6Zl.WNq",
+    "role": "USER",
+    "createdAt": "2026-01-15T13:00:00.000Z",
+    "updatedAt": "2026-01-15T13:00:00.000Z"
+  },
+  {
+    "id": "user-005",
+    "email": "david.lee@email.com",
+    "password": "$2b$10$jfcdEBBNt0lERx53NuHs7uIvA6e12ZnoWatmdWovjwfYBl6Zl.WNq",
+    "role": "USER",
+    "createdAt": "2026-01-15T14:00:00.000Z",
+    "updatedAt": "2026-01-15T14:00:00.000Z"
+  },
+  {
+    "id": "user-006",
+    "email": "lisa.garcia@email.com",
+    "password": "$2b$10$jfcdEBBNt0lERx53NuHs7uIvA6e12ZnoWatmdWovjwfYBl6Zl.WNq",
+    "role": "USER",
+    "createdAt": "2026-01-15T15:00:00.000Z",
+    "updatedAt": "2026-01-15T15:00:00.000Z"
+  },
+  {
+    "id": "user-007",
+    "email": "james.martinez@email.com",
+    "password": "$2b$10$jfcdEBBNt0lERx53NuHs7uIvA6e12ZnoWatmdWovjwfYBl6Zl.WNq",
+    "role": "USER",
+    "createdAt": "2026-01-15T16:00:00.000Z",
+    "updatedAt": "2026-01-15T16:00:00.000Z"
+  },
+  {
+    "id": "user-008",
+    "email": "anna.taylor@email.com",
+    "password": "$2b$10$jfcdEBBNt0lERx53NuHs7uIvA6e12ZnoWatmdWovjwfYBl6Zl.WNq",
+    "role": "USER",
+    "createdAt": "2026-01-15T17:00:00.000Z",
+    "updatedAt": "2026-01-15T17:00:00.000Z"
+  },
+  {
+    "id": "06e78c58-6610-437e-b770-2ea102f2bb8f",
+    "email": "chetanbhosale810@gmail.com",
+    "password": "$2b$10$iP8Yvw8Gw7UWNRYLYGwEneQkwD.shy5Qe/3RNHtN4y58WTUPH13v2",
+    "role": "USER",
+    "createdAt": "2026-01-21T18:00:54.335Z",
+    "updatedAt": "2026-01-21T18:00:54.335Z"
+  }
+]

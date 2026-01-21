@@ -1,0 +1,218 @@
+[
+  {
+    "id": "biz-001",
+    "name": "The Golden Fork",
+    "location": "456 Oak Avenue, Downtown District, New York, NY 10001",
+    "categoryId": "cat-restaurants",
+    "createdAt": "2026-01-16T09:00:00.000Z",
+    "updatedAt": "2026-01-16T09:00:00.000Z"
+  },
+  {
+    "id": "biz-002",
+    "name": "Mama's Italian Kitchen",
+    "location": "789 Elm Street, Little Italy, New York, NY 10013",
+    "categoryId": "cat-restaurants",
+    "createdAt": "2026-01-16T09:15:00.000Z",
+    "updatedAt": "2026-01-16T09:15:00.000Z"
+  },
+  {
+    "id": "biz-003",
+    "name": "Sushi Paradise",
+    "location": "321 Park Place, Midtown, New York, NY 10022",
+    "categoryId": "cat-restaurants",
+    "createdAt": "2026-01-16T09:30:00.000Z",
+    "updatedAt": "2026-01-16T09:30:00.000Z"
+  },
+  {
+    "id": "biz-004",
+    "name": "The Burger Joint",
+    "location": "654 Broadway, Greenwich Village, New York, NY 10012",
+    "categoryId": "cat-restaurants",
+    "createdAt": "2026-01-16T09:45:00.000Z",
+    "updatedAt": "2026-01-16T09:45:00.000Z"
+  },
+  {
+    "id": "biz-005",
+    "name": "Spice Route Indian Cuisine",
+    "location": "987 Madison Avenue, Upper East Side, New York, NY 10075",
+    "categoryId": "cat-restaurants",
+    "createdAt": "2026-01-16T10:00:00.000Z",
+    "updatedAt": "2026-01-16T10:00:00.000Z"
+  },
+  {
+    "id": "biz-006",
+    "name": "Brew & Bean Coffee House",
+    "location": "123 Coffee Lane, Brooklyn, NY 11201",
+    "categoryId": "cat-cafes",
+    "createdAt": "2026-01-16T10:15:00.000Z",
+    "updatedAt": "2026-01-16T10:15:00.000Z"
+  },
+  {
+    "id": "biz-007",
+    "name": "The Daily Grind",
+    "location": "456 Espresso Street, Queens, NY 11354",
+    "categoryId": "cat-cafes",
+    "createdAt": "2026-01-16T10:30:00.000Z",
+    "updatedAt": "2026-01-16T10:30:00.000Z"
+  },
+  {
+    "id": "biz-008",
+    "name": "Artisan Coffee Roasters",
+    "location": "789 Roast Road, Manhattan, NY 10014",
+    "categoryId": "cat-cafes",
+    "createdAt": "2026-01-16T10:45:00.000Z",
+    "updatedAt": "2026-01-16T10:45:00.000Z"
+  },
+  {
+    "id": "biz-009",
+    "name": "Sweet Dreams Bakery & Cafe",
+    "location": "321 Pastry Plaza, Bronx, NY 10451",
+    "categoryId": "cat-cafes",
+    "createdAt": "2026-01-16T11:00:00.000Z",
+    "updatedAt": "2026-01-16T11:00:00.000Z"
+  },
+  {
+    "id": "biz-010",
+    "name": "Grand Plaza Hotel",
+    "location": "1000 Luxury Lane, Midtown Manhattan, NY 10019",
+    "categoryId": "cat-hotels",
+    "createdAt": "2026-01-16T11:15:00.000Z",
+    "updatedAt": "2026-01-16T11:15:00.000Z"
+  },
+  {
+    "id": "biz-011",
+    "name": "Cozy Inn & Suites",
+    "location": "234 Comfort Street, Brooklyn Heights, NY 11201",
+    "categoryId": "cat-hotels",
+    "createdAt": "2026-01-16T11:30:00.000Z",
+    "updatedAt": "2026-01-16T11:30:00.000Z"
+  },
+  {
+    "id": "biz-012",
+    "name": "Riverside Boutique Hotel",
+    "location": "567 Waterfront Way, Long Island City, NY 11101",
+    "categoryId": "cat-hotels",
+    "createdAt": "2026-01-16T11:45:00.000Z",
+    "updatedAt": "2026-01-16T11:45:00.000Z"
+  },
+  {
+    "id": "biz-013",
+    "name": "Fashion Forward Boutique",
+    "location": "890 Style Street, SoHo, NY 10012",
+    "categoryId": "cat-retail",
+    "createdAt": "2026-01-16T12:00:00.000Z",
+    "updatedAt": "2026-01-16T12:00:00.000Z"
+  },
+  {
+    "id": "biz-014",
+    "name": "Tech Haven Electronics",
+    "location": "432 Gadget Grove, Chelsea, NY 10011",
+    "categoryId": "cat-retail",
+    "createdAt": "2026-01-16T12:15:00.000Z",
+    "updatedAt": "2026-01-16T12:15:00.000Z"
+  },
+  {
+    "id": "biz-015",
+    "name": "Green Thumb Garden Center",
+    "location": "765 Plant Place, Staten Island, NY 10301",
+    "categoryId": "cat-retail",
+    "createdAt": "2026-01-16T12:30:00.000Z",
+    "updatedAt": "2026-01-16T12:30:00.000Z"
+  },
+  {
+    "id": "biz-016",
+    "name": "Perfect Cut Hair Salon",
+    "location": "198 Beauty Boulevard, Upper West Side, NY 10024",
+    "categoryId": "cat-services",
+    "createdAt": "2026-01-16T12:45:00.000Z",
+    "updatedAt": "2026-01-16T12:45:00.000Z"
+  },
+  {
+    "id": "biz-017",
+    "name": "QuickFix Plumbing Services",
+    "location": "543 Repair Road, Astoria, NY 11102",
+    "categoryId": "cat-services",
+    "createdAt": "2026-01-16T13:00:00.000Z",
+    "updatedAt": "2026-01-16T13:00:00.000Z"
+  },
+  {
+    "id": "biz-018",
+    "name": "Sparkle Clean Laundromat",
+    "location": "876 Wash Way, Harlem, NY 10027",
+    "categoryId": "cat-services",
+    "createdAt": "2026-01-16T13:15:00.000Z",
+    "updatedAt": "2026-01-16T13:15:00.000Z"
+  },
+  {
+    "id": "biz-019",
+    "name": "FitLife Gym & Fitness",
+    "location": "209 Muscle Mile, Financial District, NY 10004",
+    "categoryId": "cat-fitness",
+    "createdAt": "2026-01-16T13:30:00.000Z",
+    "updatedAt": "2026-01-16T13:30:00.000Z"
+  },
+  {
+    "id": "biz-020",
+    "name": "Zen Yoga Studio",
+    "location": "654 Peace Path, West Village, NY 10014",
+    "categoryId": "cat-fitness",
+    "createdAt": "2026-01-16T13:45:00.000Z",
+    "updatedAt": "2026-01-16T13:45:00.000Z"
+  },
+  {
+    "id": "biz-021",
+    "name": "Serenity Spa & Wellness",
+    "location": "321 Relax Road, Tribeca, NY 10013",
+    "categoryId": "cat-fitness",
+    "createdAt": "2026-01-16T14:00:00.000Z",
+    "updatedAt": "2026-01-16T14:00:00.000Z"
+  },
+  {
+    "id": "biz-022",
+    "name": "Starlight Cinema",
+    "location": "987 Movie Mile, Times Square, NY 10036",
+    "categoryId": "cat-entertainment",
+    "createdAt": "2026-01-16T14:15:00.000Z",
+    "updatedAt": "2026-01-16T14:15:00.000Z"
+  },
+  {
+    "id": "biz-023",
+    "name": "Game Zone Arcade",
+    "location": "432 Fun Street, Coney Island, NY 11224",
+    "categoryId": "cat-entertainment",
+    "createdAt": "2026-01-16T14:30:00.000Z",
+    "updatedAt": "2026-01-16T14:30:00.000Z"
+  },
+  {
+    "id": "biz-024",
+    "name": "The Comedy Club",
+    "location": "765 Laugh Lane, East Village, NY 10003",
+    "categoryId": "cat-entertainment",
+    "createdAt": "2026-01-16T14:45:00.000Z",
+    "updatedAt": "2026-01-16T14:45:00.000Z"
+  },
+  {
+    "id": "biz-025",
+    "name": "AutoCare Service Center",
+    "location": "198 Mechanic Street, Jamaica, NY 11432",
+    "categoryId": "cat-automotive",
+    "createdAt": "2026-01-16T15:00:00.000Z",
+    "updatedAt": "2026-01-16T15:00:00.000Z"
+  },
+  {
+    "id": "biz-026",
+    "name": "Premium Car Wash",
+    "location": "543 Shine Street, Flushing, NY 11354",
+    "categoryId": "cat-automotive",
+    "createdAt": "2026-01-16T15:15:00.000Z",
+    "updatedAt": "2026-01-16T15:15:00.000Z"
+  },
+  {
+    "id": "biz-027",
+    "name": "City Tire & Auto",
+    "location": "876 Wheel Way, Williamsburg, NY 11211",
+    "categoryId": "cat-automotive",
+    "createdAt": "2026-01-16T15:30:00.000Z",
+    "updatedAt": "2026-01-16T15:30:00.000Z"
+  }
+]
