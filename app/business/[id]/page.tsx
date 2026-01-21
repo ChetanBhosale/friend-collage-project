@@ -185,6 +185,7 @@ export default function BusinessDetailPage() {
   };
 
   const getUserInitials = (email: string) => {
+    if (!email) return "??";
     return email.substring(0, 2).toUpperCase();
   };
 
